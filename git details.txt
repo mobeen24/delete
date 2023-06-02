@@ -1,0 +1,20 @@
+gitbash username: John Smith
+email: moreeds4@outlook.com
+
+github email: mobeen24@icloud.com
+Pass: Kabul@1234567
+username: moreeds4
+ 
+
+git mkdir = create folder/dir
+git init = initialize local git repo
+touch = creating file (txt)
+git config -- global user.name (or user.email) " "
+git add . = to add all files
+git status = check status of the local repo
+git log = to see all the activity on the local repo
+git commit -m "msge" = commit the file
+git remote add pb (URL) = to add a remote repo (note: pb is the name, use anything)
+git remote -v = to check the remote repo
+
+
